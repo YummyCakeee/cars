@@ -1,0 +1,84 @@
+{
+    "cars": [
+        {
+            "name": "Tayota Corolla",
+            "year": "2019",
+            "mark": "foreign",
+            "cost": "1600000",
+            "mileage": "0",
+            "gearBox": "МКПП"
+        },
+        {
+            "name": "Volkswagen Polo",
+            "year": "2012",
+            "mark": "foreign",
+            "cost": "350000",
+            "mileage": "176520",
+            "gearBox": "АКПП"
+        },
+        {
+            "name": "Kia Rio",
+            "year": "2020",
+            "mark": "foreign",
+            "cost": "1100000",
+            "mileage": "0",
+            "gearBox": "АКПП"
+        },
+        {
+            "name": "Renault Fluence",
+            "year": "2013",
+            "mark": "foreign",
+            "cost": "450000",
+            "mileage": "123000",
+            "gearBox": "МКПП"
+        },
+        {
+            "name": "Lada Vesta",
+            "year": "2016",
+            "mark": "domestic",
+            "cost": "490000",
+            "mileage": "98056",
+            "gearBox": "МКПП"
+        },
+        {
+            "name": "Lada Kalina",
+            "year": "2011",
+            "mark": "domestic",
+            "cost": "180000",
+            "mileage": "150000",
+            "gearBox": "МКПП"
+        },
+        {
+            "name": "Mazda 6",
+            "year": "2008",
+            "mark": "foreign",
+            "cost": "520000",
+            "mileage": "154000",
+            "gearBox": "МКПП"
+        },
+        {
+            "name": "УАЗ Патриот",
+            "year": "2008",
+            "mark": "domestic",
+            "cost": "300000",
+            "mileage": "142851",
+            "gearBox": "МКПП"
+        },
+        {
+            "name": "Nissan Micra",
+            "year": "2005",
+            "mark": "foreign",
+            "cost": "280000",
+            "mileage": "176200",
+            "gearBox": "АКПП"
+        },
+        {
+            "name": "Hyundai Elantra",
+            "year": "2011",
+            "mark": "foreign",
+            "cost": "545000",
+            "mileage": "275000",
+            "gearBox": "МКПП"
+        }
+    ]
+}
